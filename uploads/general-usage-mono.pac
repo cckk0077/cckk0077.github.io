@@ -3,7 +3,7 @@ var ipRangeArr = [768,2048,8192,256,15872,768,31744,65536,32512,65536,2560,29952
 
 var proxyDomains = {};
 var directDomains = {};
-var proxy = "SOCKS5 127.0.0.1:1081";
+var proxy = "SOCKS5 127.0.0.1:7890";
 var direct = "DIRECT";
 var defaultAction = "auto";
 
